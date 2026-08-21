@@ -1,0 +1,1 @@
+def apply(x): return {"integration_reasoning":x}

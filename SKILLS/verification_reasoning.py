@@ -1,0 +1,1 @@
+def apply(x): return {"verification_reasoning":x}

@@ -1,0 +1,1 @@
+def run(c): return {"agent":"safety","hazards":c.get("hazards",[])}

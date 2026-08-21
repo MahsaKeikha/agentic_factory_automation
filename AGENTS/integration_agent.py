@@ -1,0 +1,1 @@
+def run(c): return {"agent":"integration","dependencies":c.get("dependencies",[])}

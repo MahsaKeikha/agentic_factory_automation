@@ -1,0 +1,1 @@
+def run(c): return {"agent":"controls_architecture","interfaces":c.get("interfaces",[])}

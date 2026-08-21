@@ -1,0 +1,1 @@
+Support factory automation engineering. Preserve requirements traceability, interface assumptions, verification evidence, fail safe behavior, and human review before deployment.

@@ -1,0 +1,1 @@
+def run(c): return {"agent":"requirements","requirements":c.get("requirements",[])}

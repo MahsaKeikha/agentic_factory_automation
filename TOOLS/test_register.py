@@ -1,0 +1,1 @@
+def register(x): return [{"test":v,"status":"planned"} for v in x]

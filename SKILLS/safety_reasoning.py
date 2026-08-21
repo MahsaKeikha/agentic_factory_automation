@@ -1,0 +1,1 @@
+def apply(x): return {"safety_reasoning":x}

@@ -1,0 +1,1 @@
+def register(x): return [{"hazard":v,"status":"open"} for v in x]

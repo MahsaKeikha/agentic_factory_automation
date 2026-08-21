@@ -1,0 +1,1 @@
+def register(x): return [{"interface":v,"verified":False} for v in x]
